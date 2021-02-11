@@ -51,3 +51,5 @@ It uses Chrome as its browser
 Facebook's input field is hard to locate because it does not exist. I have seen that they use div as input field which makes it harder to send_keys to them, So updateStatus() does not work properly.
 
 I didn't find out a way to find current location of profile so it searches India in Search box and sends friend request
+
+If Virtual Env doesn't works then use local system
